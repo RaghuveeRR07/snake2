@@ -4,6 +4,8 @@
 #include <stdbool.h>
 #include <time.h>
 
+# Hello world
+
 /*
  * Removes from the list or returns false
  */
